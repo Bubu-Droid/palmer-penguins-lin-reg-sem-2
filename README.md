@@ -22,7 +22,7 @@ using Ordinary Least Squares and explains a substantial
 proportion of the variation in log body mass, with
 $R^2 = 0.8353$ and adjusted $R^2 = 0.8328$. All predictors
 except the intercept are statistically significant at the
-$5\%$ level.
+$`5\%`$ level.
 
 Confidence intervals, prediction intervals, and hypothesis
 tests are constructed and interpreted. Residual diagnostics,
