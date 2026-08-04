@@ -20,7 +20,7 @@ Species is incorporated through dummy variables, with Adelie
 taken as the baseline category. The fitted model is estimated
 using Ordinary Least Squares and explains a substantial
 proportion of the variation in log body mass, with
-$R^2 = 0.8353$ and adjusted $R^2 = 0.8328$. All predictors
+$`R^2 = 0.8353`$ and adjusted $`R^2 = 0.8328`$. All predictors
 except the intercept are statistically significant at the
 $`5\%`$ level.
 
