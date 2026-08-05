@@ -5,6 +5,8 @@ This was the project topic for my second semester statistics project.
 - PDF: [main.pdf](main.pdf)
 - TeX: [main.tex](main.tex)
 
+You can find the dataset used in this project from [Kaggle][palmerpenguinskaggle].
+
 ## Project Abstract
 
 This project studies the relationship between penguin body mass
@@ -39,3 +41,5 @@ morphological traits and species membership.
 > with love and care
 > but received the same (if not less) marks than AI generated projects.
 > I got 20 in this project and 19 in the previous one, just sad. ;-;
+
+[palmerpenguinskaggle]: https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
